@@ -4,7 +4,7 @@ terraform {
   required_providers {
     aws = {
       source  = "https://github.com/anandkasina/terraform-vault-awssecret1.git"
-      version = ">= 3.0"
+      version = "v1.0.1"
     }
   }
 }
